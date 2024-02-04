@@ -1,0 +1,24 @@
+{
+  "name": "stackblitz-starters-bqsdxx",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@types/react": "^17.0.0 || ^18.0.0",
+    "html2canvas": "^1.3.3",
+    "mui/material,": "*",
+    "react": "18.2.0",
+    "react-content-loader": "^6.2.1",
+    "react-dom": "18.2.0",
+    "sass": "^1.70.0",
+    "use-react-screenshot": "^4.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
